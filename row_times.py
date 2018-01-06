@@ -13,8 +13,8 @@ class RowTime(Model):
 row_times = [
     {
         'distance': 5000
-        'time': 23:15.6 # need to be converted
-        'date':  2/01/18 # need to be converted
+        'time': 23:15.6
+        'date':  2/01/18
     },
     {
         'distance': 2000
